@@ -1,16 +1,18 @@
-# quiz_app
+# Let's Play: Flutter Quiz App 🎈
 
-A new Flutter project.
+A beautifully designed, interactive Quiz Application built with Flutter. This project was developed to demonstrate my skills in UI implementation, State Management, as a Flutter Trainee.
 
-## Getting Started
+How to Run:
+1. Clone the repository:
+   ```bash git clone [https://github.com/YOUR_USERNAME/flutter-quiz-app.git](https://github.com/YOUR_USERNAME/flutter-quiz-app.git)
+2. Install dependencies: flutter pub get
+3. Run the build_runner (to generate JSON serialization models): flutter pub run build_runner build
 
-This project is a starting point for a Flutter application.
+## 📱 Screenshots
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<p align="center">
+  <img src="screenshots/home.png" width="250" />
+  <img src="screenshots/quiz.png" width="250" />
+  <img src="screenshots/result.png" width="250" />
+  <img src="screenshots/resultHistory.png" width="250" />
+</p>
